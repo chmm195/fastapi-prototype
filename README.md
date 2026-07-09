@@ -63,20 +63,15 @@ A production-ready template for building full stack web applications with a Fast
       <sub><b>Dashboard - Dark Mode</b></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/fastapi/full-stack-fastapi-template">
-        <img src="img/docs.png" alt="API docs screenshot" width="50%">
-      </a>
-      <br>
-      <sub><b>Interactive API Documentation</b></sub>
-    </td>
-  </tr>
 </table>
+
+### Interactive API Documentation
+
+[![API docs](img/docs.png)](https://github.com/fastapi/full-stack-fastapi-template)
 
 ## Getting Started
 
-You can fork or clone this repository and use it as is — it works out of the box.
+You can fork or clone this repository and use it as is. It works out of the box.
 
 ### Using a Private Repository
 
@@ -183,7 +178,7 @@ Or, if you have [`pipx`](https://pipx.pypa.io/) installed:
 pipx install copier
 ```
 
-> **Note:** With `pipx`, installing Copier as a standalone tool is optional — you can run it directly instead.
+> **Note:** With `pipx`, installing Copier as a standalone tool is optional. You can run it directly instead.
 
 ### Generate a Project
 
@@ -224,7 +219,7 @@ Copier will prompt for the following values. Defaults are shown below, and every
 - [Backend development](./backend/README.md)
 - [Frontend development](./frontend/README.md)
 - [Deployment](./deployment.md)
-- [Development](./development.md) — Docker Compose, custom local domains, `.env` configuration, and more.
+- [Development](./development.md): Docker Compose, custom local domains, `.env` configuration, and more.
 - [Release notes](./release-notes.md)
 
 ## License
